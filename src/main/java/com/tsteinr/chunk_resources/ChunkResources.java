@@ -24,6 +24,7 @@ public class ChunkResources
     private static final Logger LOGGER = LogUtils.getLogger();
     public static final String MOD_ID = "chunk_resources";
 
+    // Add a comment
     public ChunkResources()
     {
         // Register the setup method for modloading
